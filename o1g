@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "o1g felirat",
+      "sources": [
+        "https://imgur.com/a/2g8egRh"
+      ],
+      "x": 626,
+      "y": 240
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
